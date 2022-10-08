@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Erkan Karaçal</h1>
 <h3 align="center">A QA tester from Istanbul, Turkey</h3>
 
-
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" style="width: 50%" />
 - 🌱 I’m currently learning **Cucumber, junit**
 
 - 👨‍💻 All of my projects are available at [https://github.com/karacalerkan?tab=repositories](https://github.com/karacalerkan?tab=repositories)
@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ZcmHdHml4n_H908vUcXlrGTjxv53sIGp/view?usp=sharing](https://drive.google.com/file/d/1ZcmHdHml4n_H908vUcXlrGTjxv53sIGp/view?usp=sharing)
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" style="width: 50%" />
+
 
 
 <h3 align="center">My Environment:</h3>
