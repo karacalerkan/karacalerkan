@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **karacalerkan@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1ZcmHdHml4n_H908vUcXlrGTjxv53sIGp/view?usp=sharing" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFmb8JEAFEpfmz4QORapqmUpcXwzC8AO4hUQ&usqp=CAU" alt="CV" width="30" height="30"/> </a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1ZcmHdHml4n_H908vUcXlrGTjxv53sIGp/view?usp=sharing" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFmb8JEAFEpfmz4QORapqmUpcXwzC8AO4hUQ&usqp=CAU" alt="CV" width="20" height="20"/> </a>
 
 
 
