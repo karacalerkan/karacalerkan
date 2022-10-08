@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **karacalerkan@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZcmHdHml4n_H908vUcXlrGTjxv53sIGp/view?usp=sharing](https://drive.google.com/file/d/1ZcmHdHml4n_H908vUcXlrGTjxv53sIGp/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ZcmHdHml4n_H908vUcXlrGTjxv53sIGp/view?usp=sharing](https://drive.google.com/file/d/1ZcmHdHml4n_H908vUcXlrGTjxv53sIGp/view?usp=sharing)<a href="[https://www.java.com](https://drive.google.com/file/d/1ZcmHdHml4n_H908vUcXlrGTjxv53sIGp/view?usp=sharing)" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/115/115912.png" alt="CV" width="40" height="40"/> </a>
 
 
 
