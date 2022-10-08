@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://media0.giphy.com/media/1oF1KAEYvmXBMo6uTS/giphy.gif?cid=790b761109a73cce8d394b6e2ed15c73d7697dc6d9122b1a&rid=giphy.gif&ct=g" align="center" style="width: 100%" />
 </div>  
   
 <h1 align="center">Hi 👋, I'm Erkan Karaçal</h1>
