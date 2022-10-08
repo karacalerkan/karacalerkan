@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Cucumber, junit**
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/karacalerkan?tab=repositories" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/GPLwyVg.png" alt="projects" width="50" height="25"/> </a>
+- 👨‍💻 All of my projects are available at <a href="https://github.com/karacalerkan?tab=repositories" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/GPLwyVg.png" alt="projects" width="120" height="25"/> </a>
 
 - 📫 How to reach me **karacalerkan@gmail.com**
 
