@@ -6,7 +6,9 @@
 <h1 align="center">Hi 👋, I'm Erkan Karaçal</h1>
 <h3 align="center">A QA tester from Istanbul, Turkey</h3>
 
-img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+<div align="center">
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" style="width: 100%" />
+</div> 
 
 - 🌱 I’m currently learning **Cucumber, junit**
 
