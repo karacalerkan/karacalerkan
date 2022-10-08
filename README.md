@@ -7,7 +7,7 @@
 <h3 align="center">A QA tester from Istanbul, Turkey</h3>
 
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" style="width: 50%" />
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" style="width: 50%" >
  
 
 - 🌱 I’m currently learning **Cucumber, junit**
