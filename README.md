@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Cucumber, junit**
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/karacalerkan?tab=repositories" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/GPLwyVg.png" alt="soapui" width="100" height="25"/> </a>
+- 👨‍💻 All of my projects are available at <a href="https://github.com/karacalerkan?tab=repositories" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/GPLwyVg.png" alt="projects" width="100" height="25"/> </a>
 
 - 📫 How to reach me **karacalerkan@gmail.com**
 
@@ -20,7 +20,7 @@
 
 <h3 align="center">My Environment:</h3>
 <div align="center">
-<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/a2fdb686bf3f4bd26f142a4b60bde87647ff18e340d8251e0aea3fa551bb568e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e74656c6c694a494445412d3030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d696e74656c6c696a2d69646561266c6f676f436f6c6f723d7768697465" alt="CV" align="center" style="width: 30%" </a>
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/a2fdb686bf3f4bd26f142a4b60bde87647ff18e340d8251e0aea3fa551bb568e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e74656c6c694a494445412d3030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d696e74656c6c696a2d69646561266c6f676f436f6c6f723d7768697465" alt="intellij" align="center" style="width: 30%" </a>
 </div> 
 
 <h3 align="center">Languages and Tools:</h3>
