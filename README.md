@@ -47,5 +47,5 @@
 </div>  
   
   <div align="center">
-<img src="https://github.com/bulutluoz/Java-fall-2021/blob/output/github-contribution-grid-snake.gif" align="center"  width="1600" height="300" />
+<img src="https://github.com/bulutluoz/Java-fall-2021/blob/output/github-contribution-grid-snake.gif" align="center"  width="%100" />
 </div>
