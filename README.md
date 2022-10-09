@@ -47,5 +47,5 @@
 </div>  
   
   <div align="center">
-<img src="https://github.com/binnazcabuk/binnazcabuk/blob/output/github-contribution-grid-snake.svg" align="center"  width="%100" />
+<img src="https://raw.githubusercontent.com/binnazcabuk/binnazcabuk/output/github-contribution-grid-snake.svg" align="center"  width="%100" />
 </div>
