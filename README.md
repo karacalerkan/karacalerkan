@@ -4,7 +4,7 @@
 </div>  
   
 <h1 align="center">Hi 👋, I'm Erkan Karaçal</h1>
-<h3 align="center">A QA tester from Istanbul, Turkey</h3>
+<h3 align="center">A QA Engineer from Istanbul, Turkey</h3>
 
 
 - 🌱 I’m currently learning **Cucumber, junit**
