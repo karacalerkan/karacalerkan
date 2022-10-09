@@ -44,7 +44,8 @@
 <a href="https://stackoverflow.com/users/20192295" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  </p>
-  
- <h3 align="center">![snake gif](https://github.com/bulutluoz/Java-fall-2021/blob/output/github-contribution-grid-snake.gif)</h3> 
 </div>  
   
+  <div align="center">
+<img src="https://github.com/bulutluoz/Java-fall-2021/blob/output/github-contribution-grid-snake.gif" align="center"  width="1600" height="300" />
+</div>
